@@ -1,4 +1,11 @@
-// -*- coding: utf-8 -*-
+/*
+ * jQuery imagescroll v0.4
+ * http://www.makealone.jp/products/jquery.imagescroll
+ *
+ * Copyright 2013, makealone.jp
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
 
 (function($) {
     $.fn.imagescroll = function(options) {
