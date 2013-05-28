@@ -1,6 +1,6 @@
 /*
  * jQuery imagescroll v0.4
- * http://www.makealone.jp/products/jquery.imagescroll
+ * http://makealone.jp/products/jquery.imagescroll/
  *
  * Copyright 2013, makealone.jp
  * Free to use and abuse under the MIT license.
